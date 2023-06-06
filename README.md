@@ -41,3 +41,5 @@ sold? And why is the result so?
 sold? And why is the result so?
 ![Question 10 answer](Q10A.jpg)
 ![Question 10b answer](Q10B.jpg)
+
+
