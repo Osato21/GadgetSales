@@ -42,4 +42,17 @@ sold? And why is the result so?
 ![Question 10 answer](Q10A.jpg)
 ![Question 10b answer](Q10B.jpg)
 
+## FINDINGS
+1. The Pro HERO10 black is has the highest sales quantity wih a total of 1070 units sold.
+2. Logictech MX Master 3 has the least sales with a total of95 units sold.
+3. The top 3 most expensive gadgets are the Canon EOS R6, Sony Alpha a7111 and the LED OLED C1 Series.
+4. Megan Smith, Andrew Chen and Tommy Baker were the top three spenders.
+5. On the 12th February, 2022, only 16 items were sold, making it the least.
+6. Megan Smith has the highest order quantity with 694 gadgets ordered.
+7. The LogicTech MX Master 3, Garmin Venu 2 and the LG OLED C1 Series had the lowest sales.
+8. The iPad Pro achieved most sales on the 24th of July, 2022 with 50 units sold.
+9. Noah Kim purchased 80 units of the iPhone 13 making her the customer to buy the most quantity.
+10. The most affordable gadget turned out Amazon Echo DOT (4th Gen) to be while most expensive is the Canon EOS R6. TheAmazon Echo DOT (4th Gen) sold 365 unit and this is as a result of the affordability and quality of the gadget. However, despite the high price of the Canon, it sold 936 gadgets and this is as a result of the luxury and class of this gadget.
 
+## CONCLUSION
+From the findings gathered here, we can infer changes the store owner needs to make and products that people buy more. This would help him understaand products to stock and the particular time and season that there is high demand.
